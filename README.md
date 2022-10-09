@@ -11,9 +11,11 @@ using [openweathermap API](https://openweathermap.org/) as reference.
 `localhost:8080/api/time?loc={location_name}`
 
 ### Documentation
-- weather API
+- Weather API
+
   > ![image](https://user-images.githubusercontent.com/37493831/194761520-40e7831c-6105-4e9b-8013-79b947a5b5eb.png)
-- time API
+- Time API
+
   > ![image](https://user-images.githubusercontent.com/37493831/194761578-0a297eb6-beed-42a7-8ea8-af9461b14488.png)
 
 ### Big Thanks for
